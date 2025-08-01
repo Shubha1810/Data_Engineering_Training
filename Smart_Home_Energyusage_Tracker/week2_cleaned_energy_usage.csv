@@ -1,0 +1,11 @@
+timestamp,room_id,device_id,energy_kwh
+2025-08-01 08:00:00,LivingRoom,AC,2.5
+2025-08-01 09:00:00,LivingRoom,TV,0.3
+2025-08-01 10:00:00,Kitchen,Fridge,1.2
+2025-08-01 11:00:00,Bedroom,Heater,1.8
+2025-08-01 12:00:00,LivingRoom,Light,0.15
+2025-08-01 13:00:00,Kitchen,Oven,2.0
+2025-08-01 14:00:00,Bedroom,Fan,0.25
+2025-08-01 15:00:00,LivingRoom,AC,2.7
+2025-08-01 16:00:00,Kitchen,Fridge,1.1
+2025-08-01 17:00:00,Bedroom,Light,0.1

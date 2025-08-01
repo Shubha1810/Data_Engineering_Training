@@ -1,0 +1,8 @@
+device_id,sum,mean
+AC,5.2,2.6
+Fan,0.25,0.25
+Fridge,2.3,1.15
+Heater,1.8,1.8
+Light,0.25,0.125
+Oven,2.0,2.0
+TV,0.3,0.3
