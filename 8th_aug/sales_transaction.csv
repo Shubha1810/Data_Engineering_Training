@@ -1,0 +1,12 @@
+
+transaction_id,customer_name,region,product,category,quantity,unit_price,date
+1,Rajesh,North,Laptop,Electronics,1,55000,2024-01-12
+2,Sneha,West,Refrigerator,Electronics,1,32000,2024-02-05
+3,Anil,South,Shampoo,Personal Care,5,150,2024-01-17
+4,Divya,North,Mobile,Electronics,2,20000,2024-03-22
+5,Vikram,East,Washing Machine,Electronics,1,28000,2024-02-28
+6,Preeti,West,Sneakers,Fashion,2,4000,2024-01-31
+7,Aman,South,TV,Electronics,1,45000,2024-02-15
+8,Isha,North,Notebook,Stationery,10,60,2024-01-10
+9,Kunal,East,Pencil,Stationery,20,10,2024-03-05
+10,Tanvi,West,Face Cream,Personal Care,3,200,2024-03-19
